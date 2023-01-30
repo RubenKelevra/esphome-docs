@@ -20,6 +20,7 @@ ADC in your device to measure a voltage on certain pins.
 .. code-block:: yaml
 
     # Example configuration entry
+    
     sensor:
       - platform: adc
         pin: A0
